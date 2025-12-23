@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Karoline+Podlasinski;I+am+42+years+old;IT+Management+-+UniRitter;Engineering:+Python+Full+Stack+-+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
-
+  
 ### About Me
 🚀 Career Transitioning Professional | Full Stack Python Developer (in progress)
 
@@ -37,18 +37,22 @@ Aberta a oportunidades internacionais e remotas, com forte mentalidade de aprend
 </div>
 
 ---
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83&theme=flat&no-frame=true&margin-w=10" />
+</div>
+
+---
 
 ### GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarolinePodlasinski83&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true"/>
 
 ---
 
-### GitHub Streak
+### 🔥 GitHub Streak
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=KarolinePodlasinski83&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" />
 </div>
->
-
 
 
 ---
