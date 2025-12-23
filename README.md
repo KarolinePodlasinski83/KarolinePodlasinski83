@@ -43,16 +43,6 @@ Aberta a oportunidades internacionais e remotas, com forte mentalidade de aprend
 
 ---
 
-### GitHub Streak
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
->
-
-
-
----
-
 ### Visitors Count
 <div align="center">
   <p><b>Profile Views</b></p>
