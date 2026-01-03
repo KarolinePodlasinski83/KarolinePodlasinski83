@@ -34,7 +34,7 @@ Aberta a oportunidades internacionais e remotas, com forte mentalidade de aprend
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&hide_border=true&theme=dark)
+
 
 
 ---
