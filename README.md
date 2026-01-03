@@ -32,15 +32,21 @@ Aberta a oportunidades internacionais e remotas, com forte mentalidade de aprend
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&theme=dark)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&hide_border=true&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&theme=dark" alt="Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&theme=dark" alt="Languages" height="180" />
+</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&theme=dark)
 
 
 ---
-### Git Tropheus
+
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
