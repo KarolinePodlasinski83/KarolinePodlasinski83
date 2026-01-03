@@ -30,10 +30,16 @@ Aberta a oportunidades internacionais e remotas, com forte mentalidade de aprend
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&hide_border=true&theme=dark)
+
+---
+### Git Tropheus
 <div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KarolinePodlasinski83&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinePodlasinski83&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
