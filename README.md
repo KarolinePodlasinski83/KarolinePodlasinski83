@@ -25,10 +25,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83)
-
-
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=KarolinePodlasinski83" />
+</div>
 
 ---
 # 💻 Tech Stack:
